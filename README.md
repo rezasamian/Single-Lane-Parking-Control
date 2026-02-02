@@ -18,8 +18,8 @@ Parking entrances/exits, narrow lanes, controlled vehicle access.
 
 
 ## 💻 PLC Program (Structured Text)
-
+![PLC_ST](plc-code/main_program.st)
 
 ## 🎬 Project Demo
 
-![PLC_ST](SingleLaneParkingControl.gif)
+![PLC_gif](SingleLaneParkingControl.gif)
