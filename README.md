@@ -18,7 +18,7 @@ Parking entrances/exits, narrow lanes, controlled vehicle access.
 
 
 ## 💻 PLC Program (Structured Text)
-(plc-code/main_program.st)
+!(plc-code/main_program.st)
 
 ## 🎬 Project Demo
 
