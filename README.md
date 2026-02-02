@@ -15,3 +15,5 @@ Collision prevention
 Application
 
 Parking entrances/exits, narrow lanes, controlled vehicle access.
+
+## 💻 PLC Program (Structured Text)
