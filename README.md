@@ -16,4 +16,10 @@ Application
 
 Parking entrances/exits, narrow lanes, controlled vehicle access.
 
+
 ## 💻 PLC Program (Structured Text)
+
+
+## 🎬 Project Demo
+
+![PLC_ST](SingleLaneParkingControl.gif)
